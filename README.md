@@ -85,7 +85,7 @@ This application was created as a submission to a [The Odin Project](https://the
 <p>After you clone with sucess</p>
 <p>Open the directory with CMD and:</p>
 <p>Run this comand in terminal: <code>node index.js</code></p>
-<p>Then open director and open the index.html file with your Browser.</p>
+<p>Then open your Browser and write this URL: <code>localhost:8080</code></p>
 
 ## Contact
 
